@@ -12,22 +12,34 @@
 	<dict>
 		<key>2FDE0BF7B0F587A4C418219AC3C1CC874B876264</key>
 		<string>https://github.com/li6185377/LKDBHelper-SQLite-ORM.git</string>
+		<key>DE2CD01CF483F888678256DABF33A24F3F5A2EA3</key>
+		<string>https://github.com/zy-candone/calendar.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>LKDBHelper.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2FDE0BF7B0F587A4C418219AC3C1CC874B876264</key>
+		<string>../../../LKDBHelper-SQLite-ORM</string>
+		<key>DE2CD01CF483F888678256DABF33A24F3F5A2EA3</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/li6185377/LKDBHelper-SQLite-ORM.git</string>
+	<string>https://github.com/zy-candone/calendar.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2FDE0BF7B0F587A4C418219AC3C1CC874B876264</string>
+	<string>DE2CD01CF483F888678256DABF33A24F3F5A2EA3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DE2CD01CF483F888678256DABF33A24F3F5A2EA3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>calendar_zy</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

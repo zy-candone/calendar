@@ -20,7 +20,7 @@
 {
     self = [super init];
     if (self) {
-        self.title = @"任务";
+        self.title = @"task";//任务";
     }
     return self;
 }

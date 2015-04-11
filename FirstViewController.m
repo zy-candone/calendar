@@ -18,7 +18,7 @@
 {
     self = [super initWithStyle:style];
     if (self) {
-        self.title = @"客户";
+        self.title = @"client";//客户";
     }
     return self;
 }
